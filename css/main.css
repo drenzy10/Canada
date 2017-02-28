@@ -6,7 +6,7 @@ body {
 
 } 
  
-img.resize { 
+img { 
     size: 215;  
      
 }
@@ -26,7 +26,7 @@ nav ul, footer ul {
 
 nav ul li, footer ul li {
 
-    display: inline;
+     display: inline;
 
     margin-right: 20px;
 
