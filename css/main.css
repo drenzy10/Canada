@@ -6,7 +6,7 @@ body {
 
 } 
  
-img { 
+img.resize { 
     size: 215;  
      
 }
